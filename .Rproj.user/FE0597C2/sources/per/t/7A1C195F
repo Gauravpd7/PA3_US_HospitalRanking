@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591424874030.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1528192164",
+    "id" : "7A1C195F",
+    "lastKnownWriteTime" : 1591426943,
+    "last_content_update" : 1591426943441,
+    "path" : "F:/Coursera/R Projects/Programming Assignment 3/rankall.R",
+    "project_path" : "rankall.R",
+    "properties" : {
+        "cursorPosition" : "13,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
